@@ -153,9 +153,3 @@ color:#a34d76;
 box-shadow:0 10px 25px rgba(180,80,120,.2);
 
 }
-.mate{
-  transition: opacity 1s;
-}
-.mate:active{
-  opacity 0.5;
-}
