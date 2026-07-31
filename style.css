@@ -109,3 +109,47 @@ font-style:italic;
 color:#b86a8b;
 
 }
+#room{
+
+display:none;
+
+text-align:center;
+
+}
+
+
+#room h2{
+
+font-size:40px;
+
+color:#9b4168;
+
+}
+
+
+.cards{
+
+display:grid;
+
+grid-template-columns:1fr 1fr;
+
+gap:15px;
+
+margin-top:30px;
+
+}
+
+
+.card{
+
+background:white;
+
+padding:25px;
+
+border-radius:35px;
+
+color:#a34d76;
+
+box-shadow:0 10px 25px rgba(180,80,120,.2);
+
+}
